@@ -266,3 +266,5 @@ td { padding: .7rem 1rem; vertical-align: middle; }
   .tools select { flex: 1 1 45%; height: 2.25rem; font-size: .875rem; }
   .strip-head .muted { font-size: .8125rem; }
 }
+
+.panel { max-width: 100vw; }
